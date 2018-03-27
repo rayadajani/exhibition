@@ -1,0 +1,117 @@
+h1{
+	background-color: #FFD7C5;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	font-size: 50px;
+	color:#593B2C;
+	font-weight: bold;
+	font-family:Papyrus;
+	border: black;
+}
+body{
+	cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur757.cur), auto;
+	background:url("images/historicalbackground.jpg");
+	background-size: cover;
+	font-size: 35px;
+	color: white;
+	font-weight: bold;
+	font-family:Papyrus;
+	text-align:center;
+}
+p{
+	font-size: 45px;
+	color:white;
+	font-weight: bold;
+	font-family:Papyrus;
+	text-align:center;
+}
+.p2{
+	font-size: 23px;
+	color:white;
+	font-weight: bold;
+	font-family:Papyrus;
+	text-align:center;
+}
+.p3{
+	font-size: 50px;
+	color:white;
+	font-weight: bold;
+	font-family:Papyrus;
+	text-align:center;
+}
+.p4{
+	font-size: 50px;
+	color:#593B2C;
+	font-weight: bold;
+	font-family:Papyrus;
+	text-align:center;
+}
+h2{
+	font-size: 65px;
+	color: white;
+	font-weight: bold;
+	font-family:Papyrus;
+    align-items: center;
+}
+.grid {
+  width: 800px;
+  height: cover;
+  display: grid;
+}
+.list-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  background-color: transparent;
+}
+.list-grid1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+  background-color: transparent;
+}
+.box {
+  color: white;
+  border-radius: 10px;
+  border: 2px white solid;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li {
+    float: center;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #FFD7AC;
+}
+.border{
+	border-width: 3px;
+	border-color: black;
+	border-style: solid;
+}
+.1 {
+	grid-column: 1 / 2;
+}
+.2 {
+	grid-column: 2 / 3;
+}
+.3 {
+	grid-column: 3 / 4;
+}
+a{
+	color:white;
+}
