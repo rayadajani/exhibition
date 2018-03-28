@@ -64,8 +64,10 @@ h2{
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 10px;
   background-color: transparent;
+  align-items: center;
 }
 .list-grid1 {
+	
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 10px;
