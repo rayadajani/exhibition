@@ -65,9 +65,12 @@ h2{
   grid-gap: 10px;
   background-color: transparent;
   align-items: center;
+   width: cover;
+  height: cover;
 }
 .list-grid1 {
-	
+  width: cover;
+  height: cover;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 10px;
